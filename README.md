@@ -10,7 +10,7 @@ All of this was accomplished through a complete Python program that read the dat
 # Technology Stack
 The following technologies were used in the development of this project:
 
-NumPy
+NumPy,
 Matplotlib
 
 
