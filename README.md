@@ -12,8 +12,9 @@ The following technologies were used in the development of this project:
 
 NumPy
 Matplotlib
-Getting Started
 
+
+# Getting Started
 To run the program, you must have NumPy and Matplotlib installed on your local machine. Once installed, clone the repository and navigate to the project's root folder in your terminal. Then, run the following command:
 
 bash
