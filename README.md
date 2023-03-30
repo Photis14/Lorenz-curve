@@ -1,4 +1,4 @@
-# Lorenz-curve
+# Lorenz-curve (March 2022)
 
 In this project, I used NumPy and matplotlib to create a Lorenz curve for the population data of over 200 countries and territories in 2010.
 
